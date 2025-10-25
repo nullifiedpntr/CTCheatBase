@@ -1,0 +1,23 @@
+
+[cheats]
+
+	[cheats.farming]
+		fallback_check = false
+		autopestrepellent = false
+		autosell = false
+		fallback_delay = ""
+
+	[cheats.dungeons]
+		clip_distance = ""
+		doorless = false
+
+[utility]
+
+	[utility.general]
+		ghost_block = false
+
+[combat]
+
+	[combat.farming]
+		mode = 0
+
